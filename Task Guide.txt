@@ -1,0 +1,66 @@
+steps to complete this portfolio project
+
+1. take the social icons portion and add it to the footer of each page when you work on the footer
+
+this is around 37 minutes in the beginning of video - done
+
+
+2. take particles from this and put onto home page
+https://youtu.be/qp0-L_M3Ad4?t=3837
+
+
+3. make your about page like this
+https://www.samitimez.com/about
+
+
+4. figure out how to make your project page have carousel
+    - keep the featured project the same 
+    - get rid of the miniprojects and make them all majorprojects
+    - make the carousel with majorporjects that have a circle indicator at the bottom for where you are
+
+where i left off
+https://youtu.be/Yw7yWHigGKI?t=17788
+
+
+
+other projects to learn
+
+
+- news app 
+https://www.youtube.com/watch?v=hnoullGuo74
+
+
+
+full blog app - sahana
+https://www.youtube.com/watch?v=DpYE5zPDRVQ
+https://www.youtube.com/watch?v=xKs2IZZya7c
+
+full real estate app - for another project
+https://www.youtube.com/watch?v=edBx-fjgh4k
+
+
+
+super nice and animated agency website tutorial
+https://www.youtube.com/watch?v=mFNvQyq7otM
+
+
+learn react 4 projects
+https://www.youtube.com/watch?v=F627pKNUCVQ
+
+
+figma to web site with 3D animations
+https://www.youtube.com/watch?v=slentvTk3gY
+
+
+
+back up tutorials for my portfolio
+
+option 1
+https://www.youtube.com/watch?v=wFh0SJVDM9E&t=0s
+
+option 2 - copy some parts of this if need be
+https://www.youtube.com/watch?v=MSrFDVxiieY&list=PLsPXn08CBRBW4_Gvrs_Y3V5eFEz7EI_zO&index=5&t=121s
+
+
+option 3
+https://www.youtube.com/watch?v=3HNyXCPDQ7Q&list=PLd0qRSEDFQI7DgB5BKHQrryFlR02n1bK-&index=9&t=602s
