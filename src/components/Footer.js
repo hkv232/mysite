@@ -6,11 +6,11 @@ import {motion} from 'framer-motion'
 
 const Footer = () => {
   return (
-    <footer className='w-full border-t-2 border-solid border-dark font-medium text-lg dark:text-light dark:border-light md:text-md sm:text-sm'>
+    <footer className=' w-full border-t-2 border-solid border-dark font-medium text-xl mdlg:text-lg dark:text-light dark:border-light md:text-md sm:text-sm'>
       <Layout className='py-8 flex items-center justify-between xl:py-7 lg:py-5'>
         
         <div className='left-0 '>
-          Built With <span className='text-primary'> &#9825;</span> by Harshith
+          Built With <span className='text-heart'> &#9825;</span> by Harshith
         </div>
 
         <div>

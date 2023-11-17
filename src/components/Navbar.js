@@ -106,6 +106,7 @@ const Navbar = () => {
           <NavLink href="/about" title="About" className='mx-4 top-1'/>
           <NavLink href="/projects" title="Projects" className='mx-4 top-1'/>
           <NavLink href="/articles" title="Articles" className='mx-4 top-1'/>
+          <NavLink href="/blanko" title="Blank" className='mx-4 top-1'/>
         
         </nav>
 

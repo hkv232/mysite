@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 
+const { url } = require('inspector')
 const {fontFamily} = require('tailwindcss/defaultTheme')
 
 
@@ -13,11 +14,16 @@ module.exports = {
         mono: ['var(--font-roboto-mono)'],
       },
       colors: {
-        dark: "#1b1b1b",
+        dark: "#11101e",
+        oldDark: "#1b1b1b",
         light: "#f5f5f5",
-        primary: "#B63E96", // 240,86,199
+        primary: "#85c2e0" , // "#B63E96"/ 240,86,199
+        heart: "#B63E96",
         primaryDark: "#58E6D9", // 80,230,217
-        blue: "#0000ff"
+        blue: "#0000ff", 
+        headline: '#FFFFFF',
+        backgroundColor: '#11151c',
+        textColor: '#FFFFFF'
       },
       backgroundImage: {
         circularLight:
@@ -43,6 +49,7 @@ module.exports = {
     
         circularDarkSm:
             "repeating-radial-gradient(rgba(255,255,255,0.5) 2px,#1b1b1b 3px,#1b1b1b 40px)",
+        luxury: 'url("../../public/images/excite/bg-try.png")'
       }
     },
     screens:{
@@ -67,8 +74,9 @@ module.exports = {
       xs: { max: "479px" },
       // => @media (max-width: 479px) { ... }
   },
+
   },
-  plugins: [],
+  plugins: [ require('tailwindcss-text-fill-stroke')],
 } 
 
 
